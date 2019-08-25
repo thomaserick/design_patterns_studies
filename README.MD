@@ -56,7 +56,7 @@ Descreve soluções para problemas recorrentes no desenvolvimento de sistemas or
 
 ## Padrões estruturais
 
-#Adapter
+**Adapter
 
 - Converter a interface de uma classe em outra interface, esperada pelos clientes.o Adapter permite que classes com intefaces incompativeis trabalhem em conjunto o que, de outra forma, seria impossivel.
 

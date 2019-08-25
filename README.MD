@@ -4,7 +4,7 @@
 
 - Dividido em 23 partes
 
-** Dividios em 3 Categorias **
+_Dividios em 3 Categorias_
 
 - Padrões de criação: relacionados à criação de objetos, visam abstrair o processo de
   criação de objetos, ou seja, sua instanciação.
